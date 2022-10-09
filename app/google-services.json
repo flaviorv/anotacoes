@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633624090266",
+    "project_id": "anotacoes-6d4c9",
+    "storage_bucket": "anotacoes-6d4c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633624090266:android:9d6d6342c3fdc44252f123",
+        "android_client_info": {
+          "package_name": "com.example.anotacoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633624090266-rpgtfr2skr5jgdek2vgqqc9sgcu3v1bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3JC_Hp-nOSlLRk7zZhwnczvhiRvOOrZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633624090266-rpgtfr2skr5jgdek2vgqqc9sgcu3v1bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
